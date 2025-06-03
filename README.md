@@ -6,7 +6,7 @@ This repository contains a test automation framework built using Selenium WebDri
 - `src/test/java`: Contains the test scripts and test cases.
 - `testng.xml`: Configuration file for TestNG test execution.
 
-## Setup and Execution
+## 🚀 Getting Started
 
 1. **Clone the Repository**
 
